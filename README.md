@@ -14,6 +14,7 @@
 	file system.
 
 ## How To Contribute
+	Please fork this repository and then issue a pull request for review
 
 ### Copyright
 	Mark Chege @ git wohoo 2015
