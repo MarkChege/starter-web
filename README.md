@@ -14,3 +14,6 @@
 	file system.
 
 ## How To Contribute
+
+### Copyright
+	Mark Chege @ git wohoo
