@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mark Chege -- Gitter -- @markchege
 
 # THANKS
 
