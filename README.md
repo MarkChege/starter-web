@@ -16,4 +16,4 @@
 ## How To Contribute
 
 ### Copyright
-	Mark Chege @ git wohoo
+	Mark Chege @ git wohoo 2015
