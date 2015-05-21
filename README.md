@@ -1,7 +1,5 @@
 # Starter Web Project
-	This is a small project that shows how git and github works together
-	Here is another text for rebasing.
-	More changes from features branch
+	Just doing an emergency fix
 
 ## Introduction
 	This is an example to show how different parts of the git repository
